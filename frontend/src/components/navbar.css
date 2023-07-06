@@ -1,7 +1,7 @@
 .nav {
-    margin-left: 3;
+    margin-left: 20px;
     height: calc(100vh - 50px);
-    padding-bottom: 10;
+    padding-bottom: 10px;
     width: 300px;
     overflow-y: scroll;
 }
@@ -67,7 +67,7 @@
 }
 .activeLink:hover {
     color: black;
-    background-color: lightgray;
+    background-color: rgb(243, 243, 243);
     margin: 2px;
 }
 .normalLink {
