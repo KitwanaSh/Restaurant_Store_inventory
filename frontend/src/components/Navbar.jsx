@@ -26,7 +26,7 @@ export default function Navbar() {
                             to={`/${link.name}`}
                             key={link.name}
                             onClick={() => {}}
-                            className= {`isActive ? activeLink : normalLink`}
+                            className=  "activeLink"
                         >
                             {link.icon}
                             <span className='item-name'>{link.name}</span>
