@@ -5,7 +5,5 @@ const StateContext = createContext();
 const initialState = {
     chat: false,
     cart: false,
-    userPrfile:
+    userPrfile,
 }
-
-export const contextProfiver
