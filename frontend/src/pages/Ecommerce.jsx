@@ -16,14 +16,14 @@ const Ecommerce = () => {
           <div className='flex justify-between items-center'>
             <div>
               <p className='font-bold text-gray-400'>Earnings</p>
-              <p className='text-2xl'>$63,448.78</p>
+              <p className='text-2xl'>$74,448.59</p>
             </div>
           </div>
           <div className='mt-6'>
             <Button
               color="white"
               bgColor={ currentColor }
-              text="Download"
+              text="See Report"
               borderRadius="10px"
               size="md"
             />
@@ -56,19 +56,23 @@ const Ecommerce = () => {
         </div>
       </div>
       <div className='flex gap-10 flex-wrap justify-center'>
-        <div className='bg-white dark:text-gray-200 dark:bg-secondary-dark-bg m-3 p-4 rounded-2xl md:w-780'>
+        <div className='bg-white dark:text-gray-200 dark:bg-secondary-dark-bg m-3 p-4 rounded-2xl md:w-850'>
             <div className='flex justify-between'>
               <p className='font-semibold text-xl'>Revenue Update</p>
               <div className='flex items-center gap-4'>
                 <p className='flex items-center gap-2 text-gray-600 hover:drop-shadow-xl'>
-                  {/* <span><GoPrimitiveDot /></span> */}
                   <span><FaBeer /></span>
                   <span>Expense</span>
                 </p>
                 <p className='flex items-center gap-2 text-green-400 hover:drop-shadow-xl'>
-                  {/* <span><GoPrimitiveDot /></span> */}
                   <span><FaBeer /></span>
                   <span>Budget</span>
+                </p>
+              </div>
+              <div>
+                <p className='flex items-center gap-2 text-red-400 hover:drop-shadow-xl'>
+                  <span><BsCurrencyDollar /></span>
+                  <span className='text-red-400'>Sales</span>
                 </p>
               </div>
             </div>
@@ -76,14 +80,14 @@ const Ecommerce = () => {
               <div className='border-r-1 border-color m-4 pr-10'>
                 <div>
                   <p>
-                    <span className='text-3xl font-semibold'>$93,438</span>
-                    <span className='p-1.5 hover:drop-shadow-xl cursor-pointer rounded-full text-white bg-green-400 ml-3 text-xs'>23%</span>
+                    <span className='text-3xl font-semibold'>$28,208</span>
+                    <span className='p-1.5 hover:drop-shadow-xl cursor-pointer rounded-full text-white bg-green-400 ml-3 text-xs'>40%</span>
                   </p>
                   <p className='text-gray-500 mt-1'>Budget</p>
                 </div>
                 <div className='mt-8'>
                   <p>
-                    <span className='text-3xl font-semibold'>$48,438</span>
+                    <span className='text-3xl font-semibold'>$10,438</span>
                   </p>
                   <p className='text-gray-500 mt-1'>Expense</p>
                 </div>
@@ -102,13 +106,24 @@ const Ecommerce = () => {
                   <Button 
                     color="white"
                     bgColor={currentColor}
-                    text="Download Report"
+                    text="See the Report"
                     borderRadius="10px"
                   />
                 </div>
               </div>
               <div>
                 <Stacked width="320px" height = "360px" />
+            </div>
+            <div>
+                <Pie
+                  currentColor= {currentColor}
+                  id="pie-chart"
+                  data={ecomPieChartData}
+                  width="full"
+                  height="full"
+                  legendVisiblity={false}
+                  color={currentColor}
+                />
             </div>
         </div>
       </div>
