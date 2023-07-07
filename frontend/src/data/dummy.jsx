@@ -439,6 +439,11 @@ export const customersGrid = [
 ];
 
 export const employeesGrid = [
+  { field: 'EmployeeID',
+    headerText: 'Employee ID',
+    width: '125',
+    textAlign: 'Center'
+  },
   { headerText: 'Employee',
     width: '150',
     template: gridEmployeeProfile,
@@ -467,10 +472,6 @@ export const employeesGrid = [
   { field: 'ReportsTo',
     headerText: 'Reports To',
     width: '120',
-    textAlign: 'Center' },
-  { field: 'EmployeeID',
-    headerText: 'Employee ID',
-    width: '125',
     textAlign: 'Center' },
 ];
 
