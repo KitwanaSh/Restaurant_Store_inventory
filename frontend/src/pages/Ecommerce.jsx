@@ -1,6 +1,6 @@
 import React from 'react';
 import { BsCurrencyDollar } from 'react-icons/bs';
-// import { GoPrimitiveDot } from 'react-icons/go';
+import { FaBeer } from 'react-icons/fa'
 
 import { Stacked, Pie, Button, SparkLine } from '../components';
 
@@ -62,12 +62,12 @@ const Ecommerce = () => {
               <div className='flex items-center gap-4'>
                 <p className='flex items-center gap-2 text-gray-600 hover:drop-shadow-xl'>
                   {/* <span><GoPrimitiveDot /></span> */}
-                  <span>Icon</span>
+                  <span><FaBeer /></span>
                   <span>Expense</span>
                 </p>
                 <p className='flex items-center gap-2 text-green-400 hover:drop-shadow-xl'>
                   {/* <span><GoPrimitiveDot /></span> */}
-                  <span>Icon</span>
+                  <span><FaBeer /></span>
                   <span>Budget</span>
                 </p>
               </div>
