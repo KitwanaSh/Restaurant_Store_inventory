@@ -10,3 +10,4 @@ You can manage almost every pertinent aspect of your restaurant, depending on wh
 - CRM
 - Menu
 
+This project is mainly used using @syncfution library. With this tool, we are able to designe scheduale, make calendar, kanban, charts and much more.
