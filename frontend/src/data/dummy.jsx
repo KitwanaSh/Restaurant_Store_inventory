@@ -219,7 +219,7 @@ export const areaCustomSeries = [
     dataSource: areaChartData[0],
     xName: 'x',
     yName: 'y',
-    name: 'USA',
+    name: 'DRC',
     opacity: '0.8',
     type: 'SplineArea',
     width: '2',
@@ -247,17 +247,17 @@ export const areaCustomSeries = [
 
 export const barChartData = [
   [
-    { x: 'USA', y: 46 },
+    { x: 'DRC', y: 46 },
     { x: 'GBR', y: 27 },
     { x: 'CHN', y: 26 },
   ],
   [
-    { x: 'USA', y: 37 },
+    { x: 'DRC', y: 37 },
     { x: 'GBR', y: 23 },
     { x: 'CHN', y: 18 },
   ],
   [
-    { x: 'USA', y: 38 },
+    { x: 'DRC', y: 38 },
     { x: 'GBR', y: 17 },
     { x: 'CHN', y: 26 },
   ],
@@ -924,19 +924,19 @@ export const customersData = [
     CustomerEmail: 'nirav@gmail.com',
     CustomerImage:
       avatar2,
-    ProjectName: 'Hosting Press HTML',
+    ProjectName: 'Chips & Chicken',
     Status: 'Active',
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
-    Location: 'India',
+    Location: 'Nigeria',
   },
   {
     CustomerID: 1002,
 
     CustomerName: 'Sunil Joshi',
     CustomerEmail: 'sunil@gmail.com',
-    ProjectName: 'Elite Admin',
+    ProjectName: 'Chips & Chicken',
     Status: 'Active',
     CustomerImage:
       avatar3,
@@ -944,49 +944,49 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '11',
     Budget: '$3.9k',
-    Location: 'India',
+    Location: 'Nigeria',
   },
   {
     CustomerID: 1003,
 
     CustomerName: 'Andrew McDownland',
     CustomerEmail: 'andrew@gmail.com',
-    ProjectName: 'Real Homes WP Theme',
+    ProjectName: 'Chips & Chicken',
     Status: 'Pending',
     CustomerImage:
       avatar4,
     StatusBg: '#FEC90F',
     Weeks: '19',
     Budget: '$24.5k',
-    Location: 'USA',
+    Location: 'DRC',
   },
   {
     CustomerID: 1004,
 
     CustomerName: 'Christopher Jamil',
     CustomerEmail: 'jamil@gmail.com',
-    ProjectName: 'MedicalPro WP Theme',
+    ProjectName: 'Chips & Chicken',
     Status: 'Completed',
     CustomerImage:
       avatar,
     StatusBg: '#8BE78B',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'DRC',
   },
   {
     CustomerID: 1005,
 
     CustomerName: 'Michael',
     CustomerEmail: 'michael@gmail.com',
-    ProjectName: 'Weekly WP Theme',
+    ProjectName: 'Chips & Chicken',
     Status: 'Cancel',
     CustomerImage:
       avatar2,
     StatusBg: 'red',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'DRC',
   },
   {
     CustomerID: 1006,
@@ -994,19 +994,19 @@ export const customersData = [
     CustomerEmail: 'nirav@gmail.com',
     CustomerImage:
       avatar2,
-    ProjectName: 'Hosting Press HTML',
+    ProjectName: 'Chips & Chicken',
     Status: 'Active',
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
-    Location: 'India',
+    Location: 'Nigeria',
   },
   {
     CustomerID: 1007,
 
     CustomerName: 'Sunil Joshi',
     CustomerEmail: 'sunil@gmail.com',
-    ProjectName: 'Elite Admin',
+    ProjectName: 'Chips & Chicken',
     Status: 'Active',
     CustomerImage:
       avatar3,
@@ -1014,49 +1014,49 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '11',
     Budget: '$3.9k',
-    Location: 'India',
+    Location: 'Nigeria',
   },
   {
     CustomerID: 1008,
 
     CustomerName: 'Andrew McDownland',
     CustomerEmail: 'andrew@gmail.com',
-    ProjectName: 'Real Homes WP Theme',
+    ProjectName: 'Chips & Chicken',
     Status: 'Pending',
     CustomerImage:
       avatar4,
     StatusBg: '#FEC90F',
     Weeks: '19',
     Budget: '$24.5k',
-    Location: 'USA',
+    Location: 'DRC',
   },
   {
     CustomerID: 1009,
 
     CustomerName: 'Christopher Jamil',
     CustomerEmail: 'jamil@gmail.com',
-    ProjectName: 'MedicalPro WP Theme',
+    ProjectName: 'Chips & Chicken',
     Status: 'Completed',
     CustomerImage:
       avatar,
     StatusBg: '#8BE78B',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'DRC',
   },
   {
     CustomerID: 1010,
 
     CustomerName: 'Michael',
     CustomerEmail: 'michael@gmail.com',
-    ProjectName: 'Weekly WP Theme',
+    ProjectName: 'Chips & Chicken',
     Status: 'Cancel',
     CustomerImage:
       avatar2,
     StatusBg: 'red',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'DRC',
   },
   {
     CustomerID: 1011,
@@ -1064,19 +1064,19 @@ export const customersData = [
     CustomerEmail: 'nirav@gmail.com',
     CustomerImage:
       avatar2,
-    ProjectName: 'Hosting Press HTML',
+    ProjectName: 'Chips & Chicken',
     Status: 'Active',
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
-    Location: 'India',
+    Location: 'Nigeria',
   },
   {
     CustomerID: 1012,
 
     CustomerName: 'Sunil Joshi',
     CustomerEmail: 'sunil@gmail.com',
-    ProjectName: 'Elite Admin',
+    ProjectName: 'Chips & Chicken',
     Status: 'Active',
     CustomerImage:
       avatar3,
@@ -1084,49 +1084,49 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '11',
     Budget: '$3.9k',
-    Location: 'India',
+    Location: 'Nigeria',
   },
   {
     CustomerID: 1013,
 
     CustomerName: 'Andrew McDownland',
     CustomerEmail: 'andrew@gmail.com',
-    ProjectName: 'Real Homes WP Theme',
+    ProjectName: 'Chips & Chicken',
     Status: 'Pending',
     CustomerImage:
       avatar4,
     StatusBg: '#FEC90F',
     Weeks: '19',
     Budget: '$24.5k',
-    Location: 'USA',
+    Location: 'DRC',
   },
   {
     CustomerID: 1014,
 
     CustomerName: 'Christopher Jamil',
     CustomerEmail: 'jamil@gmail.com',
-    ProjectName: 'MedicalPro WP Theme',
+    ProjectName: 'Chips & Chicken',
     Status: 'Completed',
     CustomerImage:
       avatar,
     StatusBg: '#8BE78B',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'DRC',
   },
   {
     CustomerID: 1015,
 
     CustomerName: 'Michael',
     CustomerEmail: 'michael@gmail.com',
-    ProjectName: 'Weekly WP Theme',
+    ProjectName: 'Chips & Chicken',
     Status: 'Cancel',
     CustomerImage:
       avatar2,
     StatusBg: 'red',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'DRC',
   },
   {
     CustomerID: 1016,
@@ -1134,19 +1134,19 @@ export const customersData = [
     CustomerEmail: 'nirav@gmail.com',
     CustomerImage:
       avatar2,
-    ProjectName: 'Hosting Press HTML',
+    ProjectName: 'Chips & Chicken',
     Status: 'Active',
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
-    Location: 'India',
+    Location: 'Nigeria',
   },
   {
     CustomerID: 1017,
 
     CustomerName: 'Sunil Joshi',
     CustomerEmail: 'sunil@gmail.com',
-    ProjectName: 'Elite Admin',
+    ProjectName: 'Chips & Chicken',
     Status: 'Active',
     CustomerImage:
       avatar3,
@@ -1154,49 +1154,49 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '11',
     Budget: '$3.9k',
-    Location: 'India',
+    Location: 'Nigeria',
   },
   {
     CustomerID: 1018,
 
     CustomerName: 'Andrew McDownland',
     CustomerEmail: 'andrew@gmail.com',
-    ProjectName: 'Real Homes WP Theme',
+    ProjectName: 'Chips & Chicken',
     Status: 'Pending',
     CustomerImage:
       avatar4,
     StatusBg: '#FEC90F',
     Weeks: '19',
     Budget: '$24.5k',
-    Location: 'USA',
+    Location: 'DRC',
   },
   {
     CustomerID: 1019,
 
     CustomerName: 'Christopher Jamil',
     CustomerEmail: 'jamil@gmail.com',
-    ProjectName: 'MedicalPro WP Theme',
+    ProjectName: 'Chips & Chicken',
     Status: 'Completed',
     CustomerImage:
       avatar,
     StatusBg: '#8BE78B',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'DRC',
   },
   {
     CustomerID: 1020,
 
     CustomerName: 'Michael',
     CustomerEmail: 'michael@gmail.com',
-    ProjectName: 'Weekly WP Theme',
+    ProjectName: 'Chips & Chicken',
     Status: 'Cancel',
     CustomerImage:
       avatar2,
     StatusBg: 'red',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'DRC',
   },
   {
     CustomerID: 1021,
@@ -1204,19 +1204,19 @@ export const customersData = [
     CustomerEmail: 'nirav@gmail.com',
     CustomerImage:
       avatar2,
-    ProjectName: 'Hosting Press HTML',
+    ProjectName: 'Chips & Chicken',
     Status: 'Active',
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
-    Location: 'India',
+    Location: 'Nigeria',
   },
   {
     CustomerID: 1022,
 
     CustomerName: 'Sunil Joshi',
     CustomerEmail: 'sunil@gmail.com',
-    ProjectName: 'Elite Admin',
+    ProjectName: 'Chips & Chicken',
     Status: 'Active',
     CustomerImage:
       avatar3,
@@ -1224,49 +1224,49 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '11',
     Budget: '$3.9k',
-    Location: 'India',
+    Location: 'Nigeria',
   },
   {
     CustomerID: 1023,
 
     CustomerName: 'Andrew McDownland',
     CustomerEmail: 'andrew@gmail.com',
-    ProjectName: 'Real Homes WP Theme',
+    ProjectName: 'Chips & Chicken',
     Status: 'Pending',
     CustomerImage:
       avatar4,
     StatusBg: '#FEC90F',
     Weeks: '19',
     Budget: '$24.5k',
-    Location: 'USA',
+    Location: 'DRC',
   },
   {
     CustomerID: 1024,
 
     CustomerName: 'Christopher Jamil',
     CustomerEmail: 'jamil@gmail.com',
-    ProjectName: 'MedicalPro WP Theme',
+    ProjectName: 'Chips & Chicken',
     Status: 'Completed',
     CustomerImage:
       avatar,
     StatusBg: '#8BE78B',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'DRC',
   },
   {
     CustomerID: 1025,
 
     CustomerName: 'Michael',
     CustomerEmail: 'michael@gmail.com',
-    ProjectName: 'Weekly WP Theme',
+    ProjectName: 'Chips & Chicken',
     Status: 'Cancel',
     CustomerImage:
       avatar2,
     StatusBg: 'red',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'DRC',
   },
   {
     CustomerID: 1026,
@@ -1274,19 +1274,19 @@ export const customersData = [
     CustomerEmail: 'nirav@gmail.com',
     CustomerImage:
       avatar2,
-    ProjectName: 'Hosting Press HTML',
+    ProjectName: 'Chips & Chicken',
     Status: 'Active',
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
-    Location: 'India',
+    Location: 'Nigeria',
   },
   {
     CustomerID: 1027,
 
     CustomerName: 'Sunil Joshi',
     CustomerEmail: 'sunil@gmail.com',
-    ProjectName: 'Elite Admin',
+    ProjectName: 'Chips & Chicken',
     Status: 'Active',
     CustomerImage:
       avatar3,
@@ -1294,49 +1294,49 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '11',
     Budget: '$3.9k',
-    Location: 'India',
+    Location: 'Nigeria',
   },
   {
     CustomerID: 1028,
 
     CustomerName: 'Andrew McDownland',
     CustomerEmail: 'andrew@gmail.com',
-    ProjectName: 'Real Homes WP Theme',
+    ProjectName: 'Chips & Chicken',
     Status: 'Pending',
     CustomerImage:
       avatar4,
     StatusBg: '#FEC90F',
     Weeks: '19',
     Budget: '$24.5k',
-    Location: 'USA',
+    Location: 'DRC',
   },
   {
     CustomerID: 1029,
 
     CustomerName: 'Christopher Jamil',
     CustomerEmail: 'jamil@gmail.com',
-    ProjectName: 'MedicalPro WP Theme',
+    ProjectName: 'Chips & Chicken',
     Status: 'Completed',
     CustomerImage:
       avatar,
     StatusBg: '#8BE78B',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'DRC',
   },
   {
     CustomerID: 1030,
 
     CustomerName: 'Michael',
     CustomerEmail: 'michael@gmail.com',
-    ProjectName: 'Weekly WP Theme',
+    ProjectName: 'Chips & Chicken',
     Status: 'Cancel',
     CustomerImage:
       avatar2,
     StatusBg: 'red',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'DRC',
   },
   {
     CustomerID: 1031,
@@ -1344,19 +1344,19 @@ export const customersData = [
     CustomerEmail: 'nirav@gmail.com',
     CustomerImage:
       avatar2,
-    ProjectName: 'Hosting Press HTML',
+    ProjectName: 'Chips & Chicken',
     Status: 'Active',
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
-    Location: 'India',
+    Location: 'Nigeria',
   },
   {
     CustomerID: 1032,
 
     CustomerName: 'Sunil Joshi',
     CustomerEmail: 'sunil@gmail.com',
-    ProjectName: 'Elite Admin',
+    ProjectName: 'Chips & Chicken',
     Status: 'Active',
     CustomerImage:
       avatar3,
@@ -1364,49 +1364,49 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '11',
     Budget: '$3.9k',
-    Location: 'India',
+    Location: 'Nigeria',
   },
   {
     CustomerID: 1033,
 
     CustomerName: 'Andrew McDownland',
     CustomerEmail: 'andrew@gmail.com',
-    ProjectName: 'Real Homes WP Theme',
+    ProjectName: 'Chips & Chicken',
     Status: 'Pending',
     CustomerImage:
       avatar4,
     StatusBg: '#FEC90F',
     Weeks: '19',
     Budget: '$24.5k',
-    Location: 'USA',
+    Location: 'DRC',
   },
   {
     CustomerID: 1034,
 
     CustomerName: 'Christopher Jamil',
     CustomerEmail: 'jamil@gmail.com',
-    ProjectName: 'MedicalPro WP Theme',
+    ProjectName: 'Chips & Chicken',
     Status: 'Completed',
     CustomerImage:
       avatar,
     StatusBg: '#8BE78B',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'DRC',
   },
   {
     CustomerID: 1035,
 
     CustomerName: 'Michael',
     CustomerEmail: 'michael@gmail.com',
-    ProjectName: 'Weekly WP Theme',
+    ProjectName: 'Chips & Chicken',
     Status: 'Cancel',
     CustomerImage:
       avatar2,
     StatusBg: 'red',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'DRC',
   },
   {
     CustomerID: 1036,
@@ -1414,19 +1414,19 @@ export const customersData = [
     CustomerEmail: 'nirav@gmail.com',
     CustomerImage:
       avatar2,
-    ProjectName: 'Hosting Press HTML',
+    ProjectName: 'Chips & Chicken',
     Status: 'Active',
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
-    Location: 'India',
+    Location: 'Nigeria',
   },
   {
     CustomerID: 1037,
 
     CustomerName: 'Sunil Joshi',
     CustomerEmail: 'sunil@gmail.com',
-    ProjectName: 'Elite Admin',
+    ProjectName: 'Chips & Chicken',
     Status: 'Active',
     CustomerImage:
       avatar3,
@@ -1434,47 +1434,47 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '11',
     Budget: '$3.9k',
-    Location: 'India',
+    Location: 'Nigeria',
   },
   {
     CustomerID: 1038,
 
     CustomerName: 'Andrew McDownland',
     CustomerEmail: 'andrew@gmail.com',
-    ProjectName: 'Real Homes WP Theme',
+    ProjectName: 'Chips & Chicken',
     Status: 'Pending',
     CustomerImage:
       avatar4,
     StatusBg: '#FEC90F',
     Weeks: '19',
     Budget: '$24.5k',
-    Location: 'USA',
+    Location: 'DRC',
   },
   {
     CustomerID: 1039,
     CustomerName: 'Christopher Jamil',
     CustomerEmail: 'jamil@gmail.com',
-    ProjectName: 'MedicalPro WP Theme',
+    ProjectName: 'Chips & Chicken',
     Status: 'Completed',
     CustomerImage:
       avatar,
     StatusBg: '#8BE78B',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'DRC',
   },
   {
     CustomerID: 1040,
     CustomerName: 'Michael',
     CustomerEmail: 'michael@gmail.com',
-    ProjectName: 'Weekly WP Theme',
+    ProjectName: 'Chips & Chicken',
     Status: 'Cancel',
     CustomerImage:
       avatar2,
     StatusBg: 'red',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'DRC',
   },
 
 ];
@@ -1485,7 +1485,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar3,
@@ -1495,7 +1495,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -1505,7 +1505,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -1515,7 +1515,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1525,7 +1525,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1535,7 +1535,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1545,7 +1545,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1555,7 +1555,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar2,
@@ -1566,7 +1566,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -1576,7 +1576,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -1586,7 +1586,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1596,7 +1596,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1606,7 +1606,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1616,7 +1616,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1626,7 +1626,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar,
@@ -1636,7 +1636,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -1646,7 +1646,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -1656,7 +1656,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1666,7 +1666,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1676,7 +1676,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1686,7 +1686,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1696,7 +1696,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar2,
@@ -1707,7 +1707,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -1717,7 +1717,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -1727,7 +1727,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1737,7 +1737,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1747,7 +1747,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1757,7 +1757,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1767,7 +1767,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar2,
@@ -1778,7 +1778,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -1788,7 +1788,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -1798,7 +1798,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1808,7 +1808,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1818,7 +1818,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1828,7 +1828,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1838,7 +1838,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar2,
@@ -1849,7 +1849,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -1859,7 +1859,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -1869,7 +1869,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1879,7 +1879,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1889,7 +1889,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1899,7 +1899,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1909,7 +1909,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar2,
@@ -1920,7 +1920,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -1930,7 +1930,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -1940,7 +1940,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1950,7 +1950,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1960,7 +1960,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1970,7 +1970,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1980,7 +1980,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar2,
@@ -1991,7 +1991,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -2001,7 +2001,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -2011,7 +2011,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -2021,7 +2021,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -2031,7 +2031,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -2041,7 +2041,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -2051,7 +2051,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar2,
@@ -2062,7 +2062,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -2072,7 +2072,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -2082,7 +2082,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -2092,7 +2092,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -2102,7 +2102,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -2112,7 +2112,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'DRC',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -2126,7 +2126,7 @@ export const ordersData = [
     QuantityStock: 22,
     TotalAmount: 32.38,
     OrderItems: 'Fresh Tomato',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'pending',
     StatusBg: '#FB9678',
     ProductImage:
@@ -2186,7 +2186,7 @@ export const ordersData = [
     QuantityStock: 90,
     TotalAmount: 95.99,
     OrderItems: 'Makeup Lancome Rouge',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2198,7 +2198,7 @@ export const ordersData = [
     QuantityStock: 9,
     TotalAmount: 17.99,
     OrderItems: 'Skincare',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2210,7 +2210,7 @@ export const ordersData = [
     QuantityStock: 7,
     TotalAmount: 59.99,
     OrderItems: 'Headphone',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'complete',
     StatusBg: '#8BE78B',
     ProductImage:
@@ -2222,7 +2222,7 @@ export const ordersData = [
     QuantityStock: 8,
     TotalAmount: 87.99,
     OrderItems: 'Shoes',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'pending',
     StatusBg: '#FB9678',
     ProductImage:
@@ -2234,7 +2234,7 @@ export const ordersData = [
     QuantityStock: 4,
     TotalAmount: 122.99,
     OrderItems: 'Watch',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2246,7 +2246,7 @@ export const ordersData = [
     QuantityStock: 26,
     TotalAmount: 87.99,
     OrderItems: 'Ice Cream',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2270,7 +2270,7 @@ export const ordersData = [
     QuantityStock: 14,
     TotalAmount: 122.99,
     OrderItems: 'Watch',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2282,7 +2282,7 @@ export const ordersData = [
     QuantityStock: 13,
     TotalAmount: 32.38,
     OrderItems: 'Fresh Tomato',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'pending',
     StatusBg: '#FB9678',
     ProductImage:
@@ -2342,7 +2342,7 @@ export const ordersData = [
     QuantityStock: 45,
     TotalAmount: 95.99,
     OrderItems: 'Makeup Lancome Rouge',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2354,7 +2354,7 @@ export const ordersData = [
     QuantityStock: 25,
     TotalAmount: 17.99,
     OrderItems: 'Skincare',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2366,7 +2366,7 @@ export const ordersData = [
     QuantityStock: 22,
     TotalAmount: 59.99,
     OrderItems: 'Headphone',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'complete',
     StatusBg: '#8BE78B',
     ProductImage:
@@ -2378,7 +2378,7 @@ export const ordersData = [
     QuantityStock: 12,
     TotalAmount: 87.99,
     OrderItems: 'Shoes',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'pending',
     StatusBg: '#FB9678',
     ProductImage:
@@ -2390,7 +2390,7 @@ export const ordersData = [
     QuantityStock: 52,
     TotalAmount: 122.99,
     OrderItems: 'Watch',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2402,7 +2402,7 @@ export const ordersData = [
     QuantityStock: 33,
     TotalAmount: 87.99,
     OrderItems: 'Ice Cream',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2426,7 +2426,7 @@ export const ordersData = [
     QuantityStock: 5,
     TotalAmount: 122.99,
     OrderItems: 'Watch',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2438,7 +2438,7 @@ export const ordersData = [
     QuantityStock: 12,
     TotalAmount: 32.38,
     OrderItems: 'Fresh Tomato',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'pending',
     StatusBg: '#FB9678',
     ProductImage:
@@ -2498,7 +2498,7 @@ export const ordersData = [
     QuantityStock: 24,
     TotalAmount: 95.99,
     OrderItems: 'Makeup Lancome Rouge',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2510,7 +2510,7 @@ export const ordersData = [
     QuantityStock: 26,
     TotalAmount: 17.99,
     OrderItems: 'Skincare',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2522,7 +2522,7 @@ export const ordersData = [
     QuantityStock: 32,
     TotalAmount: 59.99,
     OrderItems: 'Headphone',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'complete',
     StatusBg: '#8BE78B',
     ProductImage:
@@ -2534,7 +2534,7 @@ export const ordersData = [
     QuantityStock: 44,
     TotalAmount: 87.99,
     OrderItems: 'Shoes',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'pending',
     StatusBg: '#FB9678',
     ProductImage:
@@ -2546,7 +2546,7 @@ export const ordersData = [
     QuantityStock: 34,
     TotalAmount: 122.99,
     OrderItems: 'Watch',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2558,7 +2558,7 @@ export const ordersData = [
     QuantityStock: 67,
     TotalAmount: 87.99,
     OrderItems: 'Ice Cream',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2582,7 +2582,7 @@ export const ordersData = [
     QuantityStock: 6,
     TotalAmount: 122.99,
     OrderItems: 'Watch',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2594,7 +2594,7 @@ export const ordersData = [
     QuantityStock: 2,
     TotalAmount: 32.38,
     OrderItems: 'Fresh Tomato',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'pending',
     StatusBg: '#FB9678',
     ProductImage:
@@ -2654,7 +2654,7 @@ export const ordersData = [
     QuantityStock: 40,
     TotalAmount: 95.99,
     OrderItems: 'Makeup Lancome Rouge',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2666,7 +2666,7 @@ export const ordersData = [
     QuantityStock: 32,
     TotalAmount: 17.99,
     OrderItems: 'Skincare',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2678,7 +2678,7 @@ export const ordersData = [
     QuantityStock: 7,
     TotalAmount: 59.99,
     OrderItems: 'Headphone',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'complete',
     StatusBg: '#8BE78B',
     ProductImage:
@@ -2690,7 +2690,7 @@ export const ordersData = [
     QuantityStock: 5,
     TotalAmount: 87.99,
     OrderItems: 'Shoes',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'pending',
     StatusBg: '#FB9678',
     ProductImage:
@@ -2702,7 +2702,7 @@ export const ordersData = [
     QuantityStock: 12,
     TotalAmount: 122.99,
     OrderItems: 'Watch',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2714,7 +2714,7 @@ export const ordersData = [
     QuantityStock: 12,
     TotalAmount: 87.99,
     OrderItems: 'Ice Cream',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2738,7 +2738,7 @@ export const ordersData = [
     QuantityStock: 23,
     TotalAmount: 122.99,
     OrderItems: 'Watch',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2751,7 +2751,7 @@ export const ordersData = [
 
     TotalAmount: 32.38,
     OrderItems: 'Fresh Tomato',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'pending',
     StatusBg: '#FB9678',
     ProductImage:
@@ -2811,7 +2811,7 @@ export const ordersData = [
     QuantityStock: 62,
     TotalAmount: 95.99,
     OrderItems: 'Makeup Lancome Rouge',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2823,7 +2823,7 @@ export const ordersData = [
     QuantityStock: 70,
     TotalAmount: 17.99,
     OrderItems: 'Skincare',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2835,7 +2835,7 @@ export const ordersData = [
     QuantityStock: 100,
     TotalAmount: 59.99,
     OrderItems: 'Headphone',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'complete',
     StatusBg: '#8BE78B',
     ProductImage:
@@ -2847,7 +2847,7 @@ export const ordersData = [
     QuantityStock: 40,
     TotalAmount: 87.99,
     OrderItems: 'Shoes',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'pending',
     StatusBg: '#FB9678',
     ProductImage:
@@ -2859,7 +2859,7 @@ export const ordersData = [
     QuantityStock: 5,
     TotalAmount: 122.99,
     OrderItems: 'Watch',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2871,7 +2871,7 @@ export const ordersData = [
     QuantityStock: 2,
     TotalAmount: 87.99,
     OrderItems: 'Ice Cream',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2895,7 +2895,7 @@ export const ordersData = [
     QuantityStock: 10,
     TotalAmount: 122.99,
     OrderItems: 'Watch',
-    Location: 'USA',
+    Location: 'DRC',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2907,7 +2907,7 @@ export const scheduleData = [
   {
     Id: 1,
     Subject: 'Explosion of Betelgeuse Star',
-    Location: 'Space Center USA',
+    Location: 'Space Center DRC',
     StartTime: '2021-01-10T04:00:00.000Z',
     EndTime: '2021-01-10T05:30:00.000Z',
     CategoryColor: '#1aaa55',
@@ -2923,7 +2923,7 @@ export const scheduleData = [
   {
     Id: 3,
     Subject: 'Blue Moon Eclipse',
-    Location: 'Space Center USA',
+    Location: 'Space Center DRC',
     StartTime: '2021-01-12T04:00:00.000Z',
     EndTime: '2021-01-12T05:30:00.000Z',
     CategoryColor: '#7fa900',
@@ -2931,7 +2931,7 @@ export const scheduleData = [
   {
     Id: 4,
     Subject: 'Meteor Showers in 2021',
-    Location: 'Space Center USA',
+    Location: 'Space Center DRC',
     StartTime: '2021-01-13T07:30:00.000Z',
     EndTime: '2021-01-13T09:00:00.000Z',
     CategoryColor: '#ea7a57',
@@ -2939,7 +2939,7 @@ export const scheduleData = [
   {
     Id: 5,
     Subject: 'Milky Way as Melting pot',
-    Location: 'Space Center USA',
+    Location: 'Space Center DRC',
     StartTime: '2021-01-14T06:30:00.000Z',
     EndTime: '2021-01-14T08:30:00.000Z',
     CategoryColor: '#00bdae',
@@ -2963,7 +2963,7 @@ export const scheduleData = [
   {
     Id: 8,
     Subject: 'Life on Mars',
-    Location: 'Space Center USA',
+    Location: 'Space Center DRC',
     StartTime: '2021-01-16T03:30:00.000Z',
     EndTime: '2021-01-16T04:30:00.000Z',
     CategoryColor: '#357cd2',
@@ -2971,7 +2971,7 @@ export const scheduleData = [
   {
     Id: 9,
     Subject: 'Alien Civilization',
-    Location: 'Space Center USA',
+    Location: 'Space Center DRC',
     StartTime: '2021-01-18T05:30:00.000Z',
     EndTime: '2021-01-18T07:30:00.000Z',
     CategoryColor: '#7fa900',
@@ -3003,7 +3003,7 @@ export const scheduleData = [
   {
     Id: 13,
     Subject: 'Myths of Andromeda Galaxy',
-    Location: 'Space Center USA',
+    Location: 'Space Center DRC',
     StartTime: '2021-01-06T05:00:00.000Z',
     EndTime: '2021-01-06T07:00:00.000Z',
     CategoryColor: '#1aaa55',
@@ -3011,7 +3011,7 @@ export const scheduleData = [
   {
     Id: 14,
     Subject: 'Aliens vs Humans',
-    Location: 'Research Center of USA',
+    Location: 'Research Center of DRC',
     StartTime: '2021-01-05T04:30:00.000Z',
     EndTime: '2021-01-05T06:00:00.000Z',
     CategoryColor: '#357cd2',
@@ -3035,7 +3035,7 @@ export const scheduleData = [
   {
     Id: 17,
     Subject: 'The Cycle of Seasons',
-    Location: 'Research Center of USA',
+    Location: 'Research Center of DRC',
     StartTime: '2021-01-11T00:00:00.000Z',
     EndTime: '2021-01-11T02:00:00.000Z',
     CategoryColor: '#00bdae',
@@ -3043,7 +3043,7 @@ export const scheduleData = [
   {
     Id: 18,
     Subject: 'Space Galaxies and Planets',
-    Location: 'Space Center USA',
+    Location: 'Space Center DRC',
     StartTime: '2021-01-11T11:30:00.000Z',
     EndTime: '2021-01-11T13:00:00.000Z',
     CategoryColor: '#f57f17',
@@ -3059,7 +3059,7 @@ export const scheduleData = [
   {
     Id: 20,
     Subject: 'Alien Civilization',
-    Location: 'Space Center USA',
+    Location: 'Space Center DRC',
     StartTime: '2021-01-14T10:30:00.000Z',
     EndTime: '2021-01-14T12:30:00.000Z',
     CategoryColor: '#ea7a57',
@@ -3067,7 +3067,7 @@ export const scheduleData = [
   {
     Id: 21,
     Subject: 'Alien Civilization',
-    Location: 'Space Center USA',
+    Location: 'Space Center DRC',
     StartTime: '2021-01-10T08:30:00.000Z',
     EndTime: '2021-01-10T10:30:00.000Z',
     CategoryColor: '#ea7a57',
@@ -3075,7 +3075,7 @@ export const scheduleData = [
   {
     Id: 22,
     Subject: 'The Cycle of Seasons',
-    Location: 'Research Center of USA',
+    Location: 'Research Center of DRC',
     StartTime: '2021-01-12T09:00:00.000Z',
     EndTime: '2021-01-12T10:30:00.000Z',
     CategoryColor: '#00bdae',
@@ -3170,7 +3170,7 @@ export const lineCustomSeries = [
   { dataSource: lineChartData[2],
     xName: 'x',
     yName: 'y',
-    name: 'India',
+    name: 'Nigeria',
     width: '2',
     marker: { visible: true, width: 10, height: 10 },
     type: 'Line' },
