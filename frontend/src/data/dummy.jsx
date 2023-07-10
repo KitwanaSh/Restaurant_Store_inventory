@@ -409,7 +409,7 @@ export const customersGrid = [
   { headerText: 'Name',
     width: '150',
     template: customerGridImage,
-    textAlign: 'Center'
+    textAlign: 'Left'
   },
 
   { field: 'ProjectName',
