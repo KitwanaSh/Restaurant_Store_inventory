@@ -14,6 +14,8 @@ You can manage almost every pertinent aspect of your restaurant, depending on wh
 ### Techology used
 The project is done using React in the frontend part. And thanks to all the libraries that react has, we dicided to work with `syncfusion` library. With this tool, we are able to designe scheduale, make calendar, kanban, charts and much more. with this library, we are able to done the 97% of forntend. The other libraries like `react-icons` and `three js` are the sumplementary of the whole frontend part.
 
+And second of all, we have the `tailwindcss` libraray that we are using to mnake css more compilable and dynamic using classes. You can check its documentation at its official website [here]('tailwindcss.com)
+
 We also decided to use `Vite` in order to quickly run this project along side with `npm`. Vite is one of the latest solution used by react for node management.
 We are not going to talk much about it in this documentation. But if you want to learn more about vite, you can vite, you can check thier documentation.
 ![Image](images/doc1.png)
