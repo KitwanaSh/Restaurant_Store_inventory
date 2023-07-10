@@ -20,4 +20,14 @@ We are not going to talk much about it in this documentation. But if you want to
 
 Here on top, is the presentation on how we run the local project using vite.
 
-### How to run the project.
+### How to run the project ?
+In order to run this project you need to follow the following steps.
+- Clone this project in your local repository;
+- Open your terminal, (Git Bash is preferable);
+- Enter in the __frontend__ directory by using `cd frontend` in your terminal
+- Install npm by running `npm install` in your terminal
+- Then run `npm run dev`
+
+Then vite will open up a suggestion of the localhost and the port that opens the the app.
+it is usally __http://127.0.0.1:5173__
+![Image](images/doc1.png)
