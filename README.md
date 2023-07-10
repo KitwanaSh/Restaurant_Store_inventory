@@ -30,4 +30,5 @@ In order to run this project you need to follow the following steps.
 
 Then vite will open up a suggestion of the localhost and the port that opens the the app.
 it is usally __http://127.0.0.1:5173__
+
 ![Image](images/doc1.png)
