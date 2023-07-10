@@ -2138,7 +2138,7 @@ export const ordersData = [
     QuantityStock: 22,
     TotalAmount: 56.34,
     OrderItems: 'Butter Scotch',
-    Location: 'Delhi',
+    Location: 'Accra',
     Status: 'complete',
     StatusBg: '#8BE78B',
     ProductImage:
@@ -2150,7 +2150,7 @@ export const ordersData = [
     QuantityStock: 6,
     TotalAmount: 93.31,
     OrderItems: 'Candy Gucci',
-    Location: 'New York',
+    Location: 'Pretoria',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2174,7 +2174,7 @@ export const ordersData = [
     QuantityStock: 8,
     TotalAmount: 23.99,
     OrderItems: 'Healthcare Erbology',
-    Location: 'Spain',
+    Location: 'Egypt',
     Status: 'rejected',
     StatusBg: 'red',
     ProductImage:
@@ -2258,7 +2258,7 @@ export const ordersData = [
     QuantityStock: 7,
     TotalAmount: 84.99,
     OrderItems: 'Pan Cake',
-    Location: 'Delhi',
+    Location: 'Accra',
     Status: 'complete',
     StatusBg: '#8BE78B',
     ProductImage:
@@ -2294,7 +2294,7 @@ export const ordersData = [
     QuantityStock: 52,
     TotalAmount: 56.34,
     OrderItems: 'Butter Scotch',
-    Location: 'Delhi',
+    Location: 'Accra',
     Status: 'complete',
     StatusBg: '#8BE78B',
     ProductImage:
@@ -2306,7 +2306,7 @@ export const ordersData = [
     QuantityStock: 15,
     TotalAmount: 93.31,
     OrderItems: 'Candy Gucci',
-    Location: 'New York',
+    Location: 'Pretoria',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2330,7 +2330,7 @@ export const ordersData = [
     QuantityStock: 72,
     TotalAmount: 23.99,
     OrderItems: 'Healthcare Erbology',
-    Location: 'Spain',
+    Location: 'Egypt',
     Status: 'rejected',
     StatusBg: 'red',
     ProductImage:
@@ -2414,7 +2414,7 @@ export const ordersData = [
     QuantityStock: 36,
     TotalAmount: 84.99,
     OrderItems: 'Pan Cake',
-    Location: 'Delhi',
+    Location: 'Accra',
     Status: 'complete',
     StatusBg: '#8BE78B',
     ProductImage:
@@ -2450,7 +2450,7 @@ export const ordersData = [
     QuantityStock: 8,
     TotalAmount: 56.34,
     OrderItems: 'Butter Scotch',
-    Location: 'Delhi',
+    Location: 'Accra',
     Status: 'complete',
     StatusBg: '#8BE78B',
     ProductImage:
@@ -2462,7 +2462,7 @@ export const ordersData = [
     QuantityStock: 42,
     TotalAmount: 93.31,
     OrderItems: 'Candy Gucci',
-    Location: 'New York',
+    Location: 'Pretoria',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2486,7 +2486,7 @@ export const ordersData = [
     QuantityStock: 53,
     TotalAmount: 23.99,
     OrderItems: 'Healthcare Erbology',
-    Location: 'Spain',
+    Location: 'Egypt',
     Status: 'rejected',
     StatusBg: 'red',
     ProductImage:
@@ -2570,7 +2570,7 @@ export const ordersData = [
     QuantityStock: 8,
     TotalAmount: 84.99,
     OrderItems: 'Pan Cake',
-    Location: 'Delhi',
+    Location: 'Accra',
     Status: 'complete',
     StatusBg: '#8BE78B',
     ProductImage:
@@ -2606,7 +2606,7 @@ export const ordersData = [
     QuantityStock: 82,
     TotalAmount: 56.34,
     OrderItems: 'Butter Scotch',
-    Location: 'Delhi',
+    Location: 'Accra',
     Status: 'complete',
     StatusBg: '#8BE78B',
     ProductImage:
@@ -2618,7 +2618,7 @@ export const ordersData = [
     QuantityStock: 60,
     TotalAmount: 93.31,
     OrderItems: 'Candy Gucci',
-    Location: 'New York',
+    Location: 'Pretoria',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2642,7 +2642,7 @@ export const ordersData = [
     QuantityStock: 50,
     TotalAmount: 23.99,
     OrderItems: 'Healthcare Erbology',
-    Location: 'Spain',
+    Location: 'Egypt',
     Status: 'rejected',
     StatusBg: 'red',
     ProductImage:
@@ -2726,7 +2726,7 @@ export const ordersData = [
     QuantityStock: 12,
     TotalAmount: 84.99,
     OrderItems: 'Pan Cake',
-    Location: 'Delhi',
+    Location: 'Accra',
     Status: 'complete',
     StatusBg: '#8BE78B',
     ProductImage:
@@ -2763,7 +2763,7 @@ export const ordersData = [
     QuantityStock: 20,
     TotalAmount: 56.34,
     OrderItems: 'Butter Scotch',
-    Location: 'Delhi',
+    Location: 'Accra',
     Status: 'complete',
     StatusBg: '#8BE78B',
     ProductImage:
@@ -2775,7 +2775,7 @@ export const ordersData = [
     QuantityStock: 31,
     TotalAmount: 93.31,
     OrderItems: 'Candy Gucci',
-    Location: 'New York',
+    Location: 'Pretoria',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2799,7 +2799,7 @@ export const ordersData = [
     QuantityStock: 12,
     TotalAmount: 23.99,
     OrderItems: 'Healthcare Erbology',
-    Location: 'Spain',
+    Location: 'Egypt',
     Status: 'rejected',
     StatusBg: 'red',
     ProductImage:
@@ -2883,7 +2883,7 @@ export const ordersData = [
     QuantityStock: 17,
     TotalAmount: 84.99,
     OrderItems: 'Pan Cake',
-    Location: 'Delhi',
+    Location: 'Accra',
     Status: 'complete',
     StatusBg: '#8BE78B',
     ProductImage:
