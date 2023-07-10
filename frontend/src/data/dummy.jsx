@@ -398,28 +398,23 @@ export const LinePrimaryYAxis = {
 
 export const customersGrid = [
   { type: 'checkbox', width: '50' },
+
+  { field: 'CustomerID',
+    headerText: 'Customer ID',
+    width: '120',
+    textAlign: 'Center',
+    isPrimaryKey: true,
+  },
+
   { headerText: 'Name',
     width: '150',
     template: customerGridImage,
     textAlign: 'Center'
   },
+
   { field: 'ProjectName',
     headerText: 'Project Name',
     width: '150',
-    textAlign: 'Center'
-  },
-  { field: 'Status',
-    headerText: 'Status',
-    width: '130',
-    format: 'yMd',
-    textAlign: 'Center',
-    template: customerGridStatus
-  },
-  {
-    field: 'Weeks',
-    headerText: 'Weeks',
-    width: '100',
-    format: 'C2',
     textAlign: 'Center'
   },
 
@@ -430,17 +425,26 @@ export const customersGrid = [
     textAlign: 'Center'
   },
 
+  {
+    field: 'Weeks',
+    headerText: 'Weeks',
+    width: '100',
+    format: 'C2',
+    textAlign: 'Center'
+  },
+
+  { field: 'Status',
+    headerText: 'Status',
+    width: '130',
+    format: 'yMd',
+    textAlign: 'Center',
+    template: customerGridStatus,
+  },
+
   { field: 'Location',
     headerText: 'Location',
     width: '150',
     textAlign: 'Center'
-  },
-
-  { field: 'CustomerID',
-    headerText: 'Customer ID',
-    width: '120',
-    textAlign: 'Center',
-    isPrimaryKey: true,
   },
 
 ];
