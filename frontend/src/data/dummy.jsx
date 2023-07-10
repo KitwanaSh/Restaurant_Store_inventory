@@ -413,13 +413,13 @@ export const customersGrid = [
   },
 
   { field: 'ProjectName',
-    headerText: 'Project Name',
+    headerText: 'Food Menu',
     width: '150',
     textAlign: 'Center'
   },
 
   { field: 'Budget',
-    headerText: 'Budget',
+    headerText: 'Amount',
     width: '100',
     format: 'yMd',
     textAlign: 'Center'
@@ -427,7 +427,7 @@ export const customersGrid = [
 
   {
     field: 'Weeks',
-    headerText: 'Weeks',
+    headerText: 'Returns',
     width: '100',
     format: 'C2',
     textAlign: 'Center'
