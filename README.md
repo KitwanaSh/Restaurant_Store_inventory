@@ -24,10 +24,17 @@ Here on top, is the presentation on how we run the local project using vite.
 
 ### How to run the project ?
 In order to run this project you need to follow the following steps.
+#### First step
 - Clone this project in your local repository;
 - Open your terminal, (Git Bash is preferable);
 - Enter in the __frontend__ directory by using `cd frontend` in your terminal
 - Install npm by running `npm install` in your terminal
+
+#### Second step
+- Configure the tailwindcss runs with react using vite; use [this link to know more]("https://tailwindcss.com/docs/installation")
+- Run the following command in your terminal, `npx tailwindcss -i ./src/index.css -o ./dist/output.css --watch`
+
+Remember here, i used _index.css_ instead of _input.css_  because that's how i set my tailwindcss reference base. After doing all the rest of the following above, then
 - Then run `npm run dev`
 
 Then vite will open up a suggestion of the localhost and the port that opens the the app.
