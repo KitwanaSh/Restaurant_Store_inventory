@@ -14,7 +14,7 @@ You can manage almost every pertinent aspect of your restaurant, depending on wh
 ### Techology used
 The project is done using React in the frontend part. And thanks to all the libraries that react has, we dicided to work with `syncfusion` library. With this tool, we are able to designe scheduale, make calendar, kanban, charts and much more. with this library, we are able to done the 97% of forntend. The other libraries like `react-icons` and `three js` are the sumplementary of the whole frontend part.
 
-And second of all, we have the `tailwindcss` libraray that we are using to mnake css more compilable and dynamic using classes. You can check its documentation at its official website [here]('tailwindcss.com)
+And second of all, we have the `tailwindcss` libraray that we are using to mnake css more compilable and dynamic using classes. You can check its documentation at its official website [here]('tailwindcss.com')
 
 We also decided to use `Vite` in order to quickly run this project along side with `npm`. Vite is one of the latest solution used by react for node management.
 We are not going to talk much about it in this documentation. But if you want to learn more about vite, you can vite, you can check thier documentation.
@@ -31,7 +31,7 @@ In order to run this project you need to follow the following steps.
 - Install npm by running `npm install` in your terminal
 
 #### Second step
-- Configure the tailwindcss runs with react using vite; use [this link to know more]("https://tailwindcss.com/docs/installation")
+- Configure the tailwindcss runs with react using vite; use [this link to know more](https://tailwindcss.com/docs/installation)
 - Run the following command in your terminal, `npx tailwindcss -i ./src/index.css -o ./dist/output.css --watch`
 
 Remember here, i used _index.css_ instead of _input.css_  because that's how i set my tailwindcss reference base. After doing all the rest of the following above, then
