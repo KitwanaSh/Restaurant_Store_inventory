@@ -10,7 +10,7 @@ const Bar = () => {
 
   return (
     <div className="m-4 md:m-10 mt-24 p-10 bg-white dark:bg-secondary-dark-bg rounded-3xl">
-      <Header category="Bar" title="Onlympic Medals - UBC" />
+      <Header category="Bar" title="Top 3 Country by Food" />
       <ChartComponent
         id="charts"
         height='420px'
