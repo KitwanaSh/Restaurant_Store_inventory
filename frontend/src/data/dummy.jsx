@@ -2984,7 +2984,7 @@ export const scheduleData = [
   {
     Id: 15,
     Subject: 'Facts of Humming Birds',
-    Location: 'California',
+    Location: 'Goma',
     StartTime: '2021-01-19T04:00:00.000Z',
     EndTime: '2021-01-19T05:30:00.000Z',
     CategoryColor: '#7fa900',
@@ -2992,7 +2992,7 @@ export const scheduleData = [
   {
     Id: 16,
     Subject: 'Sky Gazers',
-    Location: 'Alaska',
+    Location: 'Kisangani',
     StartTime: '2021-01-22T05:30:00.000Z',
     EndTime: '2021-01-22T07:30:00.000Z',
     CategoryColor: '#ea7a57',
@@ -3056,7 +3056,7 @@ export const scheduleData = [
   {
     Id: 24,
     Subject: 'Facts of Humming Birds',
-    Location: 'California',
+    Location: 'Goma',
     StartTime: '2021-01-16T07:00:00.000Z',
     EndTime: '2021-01-16T09:00:00.000Z',
     CategoryColor: '#7fa900',
