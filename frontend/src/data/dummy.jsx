@@ -333,7 +333,7 @@ export const FinancialPrimaryXAxis = {
 };
 
 export const FinancialPrimaryYAxis = {
-  title: 'Price',
+  title: 'Reservations',
   minimum: 100,
   maximum: 180,
   interval: 20,
