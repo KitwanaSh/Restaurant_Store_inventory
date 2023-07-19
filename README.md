@@ -34,3 +34,10 @@ Then vite will open up a suggestion of the localhost and the port that opens the
 it is usally __http://127.0.0.1:5173__
 
 ![Image](images/doc1.png)
+
+<b>Authored by:</b>
+
+Kitwana S. Ezechiel (front-end developer)
+Martins Abayobi Adebayo (back-end developer)
+Agbagher Japhet (front-end developer)
+Tiisetso Sebata (front-end developer)
