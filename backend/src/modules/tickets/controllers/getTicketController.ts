@@ -10,7 +10,7 @@ export const getAll = async (req: Request, res: Response) => {
     if (!tickets) {
       return res.status(404).json({ error: 'Not found' });
     }
-tt
+
     let newArray = [];
     let returnedTickets = [];
     returnedTickets.push(tickets[0]);
