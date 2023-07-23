@@ -166,6 +166,7 @@ model Financial {
   @@map("financial")
 }
 
+
 model Purchase {
   id          String   @id @default(uuid())
   user_id     String
@@ -184,6 +185,7 @@ model Purchase {
 
   @@map("purchases")
 }
+
 
 model Sale {
   id         String   @id @default(uuid())
