@@ -1,6 +1,7 @@
 import { Request, Response } from 'express';
 import { getTicketService } from '../services/getTicketService';
 import { deleteTicketService } from '../services/deleteTicketService';
+
 export const deleteOne = async (req: Request, res: Response) => {
   try {
     const { id } = req.params;
