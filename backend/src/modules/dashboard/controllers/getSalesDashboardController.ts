@@ -17,14 +17,14 @@ type LastSales = {
 export const getSalesDashboardController = async ({ targetDate, days, currentDateTime, incrementerDay }: DashboardProps): Promise<any> => {
   const getSales = await getSalesDashboardService.findSales(targetDate!);
   let arrayDatesSales: any[] = [];
-
+hsdffsdhjhad
   for (let i = 0; i < days!; i++) {
     arrayDatesSales.push({
       date: formatDate(new Date(currentDateTime! + (incrementerDay! * i))),
       quantitySales: 0
     })
   }
-
+fsafsasfa
   getSales.map((item) => {
     let formattedDate = `${item.updated_at.getDate().toString().padStart(2, '0')}/${(item.updated_at.getMonth() + 1).toString().padStart(2, '0')}`;
     let findIndex = arrayDatesSales.findIndex((dateSale) => dateSale.date === formattedDate);
@@ -35,7 +35,7 @@ export const getSalesDashboardController = async ({ targetDate, days, currentDat
 
   let today = new Date();
   const todayFormattedDate = `${today.getFullYear()}-${(today.getMonth() + 1).toString().padStart(2, '0')}-${today.getDate().toString().padStart(2, '0')}`;
-
+afsafsas
   const getLastSales = await getSalesDashboardService.findLastSales(todayFormattedDate);
   const resultSales = {
     list: [] as Sales[],
